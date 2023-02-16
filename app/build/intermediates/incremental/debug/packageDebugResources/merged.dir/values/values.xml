@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="bg_gray">#DADADA</color>
+    <color name="black">#FF000000</color>
+    <color name="gray_chip">#E8ECF0</color>
+    <color name="ic_launcher_adaptive_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_gray">#272727</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">NY Times</string>
+    <string name="bookmarks_icon">bookmarks_icon</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="default_web_client_id" translatable="false">905989242825-htiqcsvnjqpm7n7cihriu071k8l2ovcn.apps.googleusercontent.com</string>
+    <string name="floatingbutton">floatingbutton</string>
+    <string name="gcm_defaultSenderId" translatable="false">905989242825</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQl3rlV_sYpnMHW4ofoM0yEffydvidegg</string>
+    <string name="google_app_id" translatable="false">1:905989242825:android:b4bc40bf3a96aa1a7db218</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQl3rlV_sYpnMHW4ofoM0yEffydvidegg</string>
+    <string name="google_storage_bucket" translatable="false">newyorktimesadidev.appspot.com</string>
+    <string name="project_id" translatable="false">newyorktimesadidev</string>
+    <style name="Theme.NYTimes" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="splashScreenTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>

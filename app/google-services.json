@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905989242825",
+    "project_id": "newyorktimesadidev",
+    "storage_bucket": "newyorktimesadidev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905989242825:android:b4bc40bf3a96aa1a7db218",
+        "android_client_info": {
+          "package_name": "com.ahmed.nytimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905989242825-htiqcsvnjqpm7n7cihriu071k8l2ovcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl3rlV_sYpnMHW4ofoM0yEffydvidegg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905989242825-htiqcsvnjqpm7n7cihriu071k8l2ovcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

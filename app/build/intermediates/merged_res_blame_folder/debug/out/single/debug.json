@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_placeholder.jpg.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/placeholder.jpg"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-hdpi_ic_launcher_adaptive_foreground.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-hdpi/ic_launcher_adaptive_foreground.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxxhdpi_ic_launcher_adaptive.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxxhdpi/ic_launcher_adaptive.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-anydpi-v26_ic_launcher_adaptive.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-anydpi-v26/ic_launcher_adaptive.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/raw_loader_1.json.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/raw/loader_1.json"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_extralightitalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_extralightitalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-mdpi_ic_launcher_adaptive.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-mdpi/ic_launcher_adaptive.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_domine_regular.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/domine_regular.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/anim_slide_in_right.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout_fragment_article.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/fragment_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_thin.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_thin.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_bolditalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_bolditalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_extralight.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_extralight.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_italic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_italic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/raw_no_internet2.json.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/raw/no_internet2.json"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-xxxhdpi_bookmark.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-xxxhdpi/bookmark.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_black.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_black.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_semibold.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_semibold.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_domine_bold.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/domine_bold.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_extrabold.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_extrabold.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_blackitalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_blackitalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxxhdpi_ic_launcher_adaptive_round.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxxhdpi/ic_launcher_adaptive_round.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-mdpi_bookmark.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-mdpi/bookmark.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-anydpi-v24_bookmarks.xml.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-anydpi-v24/bookmarks.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_medium.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_medium.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_thinitalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_thinitalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/raw_no_internet.json.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/raw/no_internet.json"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/raw_loader_3.json.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/raw/loader_3.json"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_light.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_light.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout-land_fragment_saved_article.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout-land/fragment_saved_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_myfont.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/myfont.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-ldpi_bookmark.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-ldpi/bookmark.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxhdpi_ic_launcher_adaptive_round.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxhdpi/ic_launcher_adaptive_round.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-xxxhdpi_bookmarks.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-xxxhdpi/bookmarks.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-xxhdpi_bookmark.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-xxhdpi/bookmark.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-xhdpi_bookmarks.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-xhdpi/bookmarks.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout_item_article.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-mdpi_ic_launcher_adaptive_round.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-mdpi/ic_launcher_adaptive_round.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/raw_loader_2.json.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/raw/loader_2.json"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout_activity_main.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_regular.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_regular.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_logo.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/logo.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-mdpi_ic_launcher_adaptive_foreground.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-mdpi/ic_launcher_adaptive_foreground.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-mdpi_bookmarks.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-mdpi/bookmarks.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_bold.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_bold.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/anim_slide_out_right.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout_fragment_saved_article.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/fragment_saved_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_radius_100.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/radius_100.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_splash_screen.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_share.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/share.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_logofont.otf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/logofont.otf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_mediumitalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_mediumitalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/anim_slide_out_left.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xhdpi_ic_launcher_adaptive_round.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xhdpi/ic_launcher_adaptive_round.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-v24_ic_delete.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable-v24/ic_delete.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-hdpi_ic_launcher_adaptive_round.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-hdpi/ic_launcher_adaptive_round.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_lightitalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_lightitalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable_bookmark_fill.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable/bookmark_fill.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-xxhdpi_bookmarks.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-xxhdpi/bookmarks.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xhdpi_ic_launcher_adaptive.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xhdpi/ic_launcher_adaptive.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-v24_test.jpg.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/drawable-v24/test.jpg"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-ldpi_bookmarks.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-ldpi/bookmarks.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-hdpi_bookmarks.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-hdpi/bookmarks.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xhdpi_ic_launcher_adaptive_foreground.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xhdpi/ic_launcher_adaptive_foreground.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/anim_slide_in_left.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-hdpi_ic_launcher_adaptive.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-hdpi/ic_launcher_adaptive.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout-land_fragment_top_stories.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout-land/fragment_top_stories.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxhdpi_ic_launcher_adaptive_foreground.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxhdpi/ic_launcher_adaptive_foreground.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxhdpi_ic_launcher_adaptive.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxhdpi/ic_launcher_adaptive.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout_fragment_top_stories.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/fragment_top_stories.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxxhdpi_ic_launcher_adaptive_foreground.png.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxxhdpi/ic_launcher_adaptive_foreground.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-hdpi_bookmark.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-hdpi/bookmark.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/navigation_app_nav_graph.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/navigation/app_nav_graph.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-xhdpi_bookmark.png.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-xhdpi/bookmark.png"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_semibolditalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_semibolditalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-anydpi-v26_ic_launcher_adaptive_round.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-anydpi-v26/ic_launcher_adaptive_round.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/font_notosansdisplay_extrabolditalic.ttf.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/font/notosansdisplay_extrabolditalic.ttf"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/drawable-anydpi-v24_bookmark.xml.flat",
+        "source": "com.ahmed.nytimes.app-pngs-2:/drawable-anydpi-v24/bookmark.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout-land_item_article.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout-land/item_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-merged_res-7:/layout_test_layout.xml.flat",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/test_layout.xml"
+    }
+]

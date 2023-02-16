@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.ahmed.nytimes.app-mergeDebugResources-6:/layout/fragment_saved_article.xml",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/fragment_saved_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-mergeDebugResources-6:/layout/item_article.xml",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-mergeDebugResources-6:/layout/test_layout.xml",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/test_layout.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-mergeDebugResources-6:/layout/fragment_article.xml",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/fragment_article.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-mergeDebugResources-6:/layout/activity_main.xml",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ahmed.nytimes.app-mergeDebugResources-6:/layout/fragment_top_stories.xml",
+        "source": "com.ahmed.nytimes.app-main-9:/layout/fragment_top_stories.xml"
+    }
+]

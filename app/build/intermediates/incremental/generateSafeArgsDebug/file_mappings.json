@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\app_nav_graph.xml","javaFiles":["com.ahmed.nytimes.ui.topstories.TopStoriesFragmentDirections","com.ahmed.nytimes.ui.article.ArticleDetailFragmentArgs","com.ahmed.nytimes.ui.bookmark.BookmarkFragmentDirections"]}]
