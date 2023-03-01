@@ -22,37 +22,29 @@ class ArticleDetailFragment : Fragment() {
 
     private lateinit var viewModel: MainViewModel
     private val args: ArticleDetailFragmentArgs by navArgs()
-
     private var _binding: FragmentArticleBinding? = null
     private val binding get() = _binding!!
-
     private val TAG = "ArticleFragment"
-
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         _binding = FragmentArticleBinding.inflate(inflater, container, false)
         return binding.root
     }
-
     @SuppressLint("SetJavaScriptEnabled")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         viewModel = (activity as MainActivity).viewModel
-
         val article = args.article
-
         binding.webviewDetail.apply {
             webViewClient = WebViewClient()
             article.url?.let { loadUrl(it) }
             settings.userAgentString = "Android"
             settings.javaScriptEnabled = true
         }
-
         setupProgressBar()
-
         if (!article.isSaved) {
             binding.fabDetail.visibility = View.VISIBLE
             binding.webviewDetail.setOnScrollChangeListener { _, _, scrollY, _, oldScrollY ->
@@ -108,6 +100,7 @@ class ArticleDetailFragment : Fragment() {
 
     private fun setupProgressBar() {
         binding.webviewDetail.webViewClient = object : WebViewClient() {
+            @Deprecated("Deprecated in Java", ReplaceWith("false"))
             override fun shouldOverrideUrlLoading(view: WebView?, url: String?): Boolean {
                 return false
             }

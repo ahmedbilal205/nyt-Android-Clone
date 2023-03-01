@@ -51,7 +51,7 @@ class TopStoriesFragment : Fragment() {
                     hideNoInternet()
                     changeColorBackground(R.color.bg_gray)
                     response.data?.let { topStoriesResponse ->
-                        topStoriesAdapter.differ.submitList(topStoriesResponse.results.toList())
+                        topStoriesAdapter.asyncListDiffer.submitList(topStoriesResponse.results.toList())
                     }
                 }
                 is Resources.Error -> {
@@ -73,7 +73,6 @@ class TopStoriesFragment : Fragment() {
             viewModel.getTopStories()
             hideNoInternet()
         }
-
         topStoriesAdapter.setOnItemClickListener {
             val bundle = Bundle().apply {
                 putSerializable("article", it)
@@ -128,7 +127,6 @@ class TopStoriesFragment : Fragment() {
             rvTopStories.visibility = View.INVISIBLE
         }
     }
-
     private fun hideNoInternet() {
         binding.apply {
             noInternet.visibility = View.INVISIBLE

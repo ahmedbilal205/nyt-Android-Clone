@@ -13,14 +13,10 @@ import com.ahmed.nytimes.data.model.Article
 )
 @TypeConverters(Converters::class)
 abstract class ArticleDatabase : RoomDatabase() {
-
     abstract fun getArticleDao(): ArticleDao
-
     companion object {
-
         @Volatile
         private var INSTACE: ArticleDatabase? = null
-
         fun getInstance(context: Context): ArticleDatabase {
             return INSTACE ?: synchronized(this) {
                 val instace = Room.databaseBuilder(

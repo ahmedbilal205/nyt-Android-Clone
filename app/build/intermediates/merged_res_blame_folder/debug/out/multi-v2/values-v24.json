@@ -4,7 +4,7 @@
             "outputFile": "com.ahmed.nytimes.app-mergeDebugResources-5:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\73fb37b9b6fc5cd3ca590d6a2a83d7a1\\transformed\\material-1.5.0\\res\\values-v24\\values-v24.xml",
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\37abb3a6a0fcf20c537a37e21db3e268\\transformed\\material-1.5.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\d3b9fab282285c49f9bde09c964306dd\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\86636ec62e4dc4fbebd1d445f1b84a03\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

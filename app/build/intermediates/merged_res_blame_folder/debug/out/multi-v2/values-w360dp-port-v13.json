@@ -4,7 +4,7 @@
             "outputFile": "com.ahmed.nytimes.app-mergeDebugResources-5:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\73fb37b9b6fc5cd3ca590d6a2a83d7a1\\transformed\\material-1.5.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\37abb3a6a0fcf20c537a37e21db3e268\\transformed\\material-1.5.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

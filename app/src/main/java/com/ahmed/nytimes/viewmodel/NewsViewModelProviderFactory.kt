@@ -7,7 +7,7 @@ import com.ahmed.nytimes.repository.NewsRepository
 
 class NewsViewModelProviderFactory(
     val app: Application,
-    val newsRepository: NewsRepository
+    private val newsRepository: NewsRepository
 ) : ViewModelProvider.Factory {
     @Suppress("UNCHECKED_CAST")
     override fun <T : ViewModel> create(modelClass: Class<T>): T {

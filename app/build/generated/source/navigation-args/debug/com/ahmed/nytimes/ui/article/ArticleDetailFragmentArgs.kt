@@ -44,6 +44,7 @@ public data class ArticleDetailFragmentArgs(
 
   public companion object {
     @JvmStatic
+    @Suppress("DEPRECATION")
     public fun fromBundle(bundle: Bundle): ArticleDetailFragmentArgs {
       bundle.setClassLoader(ArticleDetailFragmentArgs::class.java.classLoader)
       val __article : Article?

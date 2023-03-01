@@ -18,10 +18,8 @@ import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 class TopStoriesAdapter : RecyclerView.Adapter<TopStoriesAdapter.ArticleViewHolder>() {
 
     private var onItemClickListener: ((Article) -> Unit)? = null
-
     inner class ArticleViewHolder(val binding: ItemArticleBinding) :
         RecyclerView.ViewHolder(binding.root)
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ArticleViewHolder {
         val binding = ItemArticleBinding.inflate(LayoutInflater.from(parent.context), parent, false)
         return ArticleViewHolder(binding)
@@ -31,19 +29,16 @@ class TopStoriesAdapter : RecyclerView.Adapter<TopStoriesAdapter.ArticleViewHold
         override fun areItemsTheSame(oldItem: Article, newItem: Article): Boolean {
             return oldItem.url == newItem.url
         }
-
         override fun areContentsTheSame(oldItem: Article, newItem: Article): Boolean {
             return oldItem == newItem
         }
     }
 
-    val differ = AsyncListDiffer(this, diffCallback)
-
+    val asyncListDiffer = AsyncListDiffer(this, diffCallback)
 
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onBindViewHolder(holder: ArticleViewHolder, position: Int) {
-        val article = differ.currentList[position]
-
+        val article = asyncListDiffer.currentList[position]
         holder.binding.apply {
             Glide.with(this.root)
                 .load(if (article.multimedia == null) R.drawable.placeholder else article.multimedia!![1].url)
@@ -64,12 +59,10 @@ class TopStoriesAdapter : RecyclerView.Adapter<TopStoriesAdapter.ArticleViewHold
                 onItemClickListener?.let { it(article) }
             }
         }
-
-
     }
 
     override fun getItemCount(): Int {
-        return differ.currentList.size
+        return asyncListDiffer.currentList.size
     }
 
     fun setOnItemClickListener(listener: (Article) -> Unit) {

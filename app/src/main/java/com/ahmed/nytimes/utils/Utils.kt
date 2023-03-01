@@ -7,10 +7,7 @@ import java.time.Instant
 
 
 class Utils {
-
     companion object {
-
-
         fun dateTimeAgo(date: String): String {
             val dateFormatted = date.substring(0,19)+"Z"
             val instant = Instant.parse(dateFormatted)

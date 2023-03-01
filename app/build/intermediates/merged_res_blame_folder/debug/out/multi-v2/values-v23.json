@@ -4,25 +4,6 @@
             "outputFile": "com.ahmed.nytimes.app-mergeDebugResources-5:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\73fb37b9b6fc5cd3ca590d6a2a83d7a1\\transformed\\material-1.5.0\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
-                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
-                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
-                    },
-                    "to": {
-                        "startLines": "67,70,73,78,82,85,88,91,96,99,103",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4063,4279,4489,4809,5046,5253,5460,5663,5995,6197,6462",
-                        "endLines": "69,72,77,81,84,87,90,95,98,102,106",
-                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "4274,4484,4804,5041,5248,5455,5658,5990,6192,6457,6730"
-                    }
-                },
-                {
                     "source": "E:\\Android_projects\\NewYorkTimes-App\\app\\src\\main\\res\\values-v23\\themes.xml",
                     "from": {
                         "startLines": "3",
@@ -42,26 +23,26 @@
                     }
                 },
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\a75c568dea5f8d87e971f27478153cff\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\37abb3a6a0fcf20c537a37e21db3e268\\transformed\\material-1.5.0\\res\\values-v23\\values-v23.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
+                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
+                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
                     },
                     "to": {
-                        "startLines": "50",
-                        "startColumns": "4",
-                        "startOffsets": "3277",
-                        "endLines": "52",
-                        "endColumns": "12",
-                        "endOffsets": "3422"
+                        "startLines": "67,70,73,78,82,85,88,91,96,99,103",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4063,4279,4489,4809,5046,5253,5460,5663,5995,6197,6462",
+                        "endLines": "69,72,77,81,84,87,90,95,98,102,106",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "4274,4484,4804,5041,5248,5455,5658,5990,6192,6457,6730"
                     }
                 },
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\d3b9fab282285c49f9bde09c964306dd\\transformed\\appcompat-1.4.1\\res\\values-v23\\values-v23.xml",
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\86636ec62e4dc4fbebd1d445f1b84a03\\transformed\\appcompat-1.4.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -77,6 +58,25 @@
                         "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
                         "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
                         "endOffsets": "230,365,440,527,1265,2015,2134,2261,2483,2707,2822,2929,3042,3272"
+                    }
+                },
+                {
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\3b6dd2bb4038902726507c2f5d57cd53\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "50",
+                        "startColumns": "4",
+                        "startOffsets": "3277",
+                        "endLines": "52",
+                        "endColumns": "12",
+                        "endOffsets": "3422"
                     }
                 }
             ]

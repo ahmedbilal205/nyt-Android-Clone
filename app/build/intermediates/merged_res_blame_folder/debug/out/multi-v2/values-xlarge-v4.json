@@ -4,7 +4,7 @@
             "outputFile": "com.ahmed.nytimes.app-mergeDebugResources-5:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\d3b9fab282285c49f9bde09c964306dd\\transformed\\appcompat-1.4.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "E:\\android_studio_files\\.gradle\\caches\\transforms-3\\86636ec62e4dc4fbebd1d445f1b84a03\\transformed\\appcompat-1.4.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

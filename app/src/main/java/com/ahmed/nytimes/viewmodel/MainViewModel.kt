@@ -32,7 +32,6 @@ class MainViewModel(
     fun getTopStories() = viewModelScope.launch {
         safeTopStoriesCall()
     }
-
     private suspend fun safeTopStoriesCall() {
         topStories.postValue(Resources.Loading())
         try {

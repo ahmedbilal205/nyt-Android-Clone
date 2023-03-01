@@ -27,7 +27,7 @@ class BookmarkFragment : Fragment() {
     private lateinit var viewModel: MainViewModel
     private lateinit var newsAdapter: TopStoriesAdapter
 
-    /* Setup on swipe delete*/
+
     private val background = ColorDrawable()
     private val backgroundColor = Color.parseColor("#ba000d")
 
@@ -119,7 +119,7 @@ class BookmarkFragment : Fragment() {
 
             override fun onSwiped(viewHolder: RecyclerView.ViewHolder, direction: Int) {
                 val position = viewHolder.adapterPosition
-                val article = newsAdapter.differ.currentList[position]
+                val article = newsAdapter.asyncListDiffer.currentList[position]
 
                 viewModel.deleteArticle(article)
                 Snackbar.make(view, "Article deleted", Snackbar.LENGTH_LONG).apply {
@@ -137,7 +137,7 @@ class BookmarkFragment : Fragment() {
         }
 
         viewModel.getSavedArticle().observe(viewLifecycleOwner) { articles ->
-            newsAdapter.differ.submitList(articles)
+            newsAdapter.asyncListDiffer.submitList(articles)
         }
     }
 

@@ -18,7 +18,6 @@ import com.ahmed.nytimes.viewmodel.NewsViewModelProviderFactory
 class MainActivity : AppCompatActivity() {
 
     lateinit var viewModel: MainViewModel
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setTheme(R.style.Theme_NYTimes)
@@ -30,5 +29,6 @@ class MainActivity : AppCompatActivity() {
 
         val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragment_container) as NavHostFragment
         navHostFragment.findNavController()
+
     }
 }
